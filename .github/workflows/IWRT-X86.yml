@@ -1,4 +1,4 @@
-name: IWRT-X86  #CI项目名
+name: TEST  #CI项目名
 
 on:
   schedule:  #自动编译：每天早上6点
